@@ -1,9 +1,13 @@
-## Hi there 👋
+## Holaa, soy Nicole 👋
 
 <!--
 **YanellaNicoleLoyola/YanellaNicoleLoyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Beyond Journey&#39;s End, Sousou no frieren, Frieren, book](https://github.com/user-attachments/assets/59f7a6cf-bd08-4671-90e2-2d2b1ce9ea6f)
+
+
 Here are some ideas to get you started:
+![Uploading Beyond Journey's End, Sousou no frieren, Frieren, book.gif…]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
