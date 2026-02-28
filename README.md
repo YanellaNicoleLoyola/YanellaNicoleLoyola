@@ -1,22 +1,6 @@
-## Holaa, soy Nicole 👋
-
+<p align="center"> ## Holaa, soy Nicole 👋
 ![Image](https://github.com/user-attachments/assets/1177ebf4-ddab-440f-a824-4d1182c44e0e)
+</p>
 
-<!--
-**YanellaNicoleLoyola/YanellaNicoleLoyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Beyond Journey&#39;s End, Sousou no frieren, Frieren, book](https://github.com/user-attachments/assets/59f7a6cf-bd08-4671-90e2-2d2b1ce9ea6f)
-
-
-Here are some ideas to get you started:
-![Uploading Beyond Journey's End, Sousou no frieren, Frieren, book.gif…]()
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Sobre mí 
+🎓 Actualmente estudiando Licenciatura en Sistemas en la Universidad Nacional de La Plata
