@@ -1,5 +1,7 @@
 ## Holaa, soy Nicole 👋
 
+![Image](https://github.com/user-attachments/assets/1177ebf4-ddab-440f-a824-4d1182c44e0e)
+
 <!--
 **YanellaNicoleLoyola/YanellaNicoleLoyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
